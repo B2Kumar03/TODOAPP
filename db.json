@@ -1,0 +1,92 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "Complete Assignment",
+      "status": true,
+      "description": "Finish the research paper for history class by Friday.",
+      "assign_to": {
+        "name": "Eleanor"
+      },
+      "date": "25-03-2024",
+      "time": "15:00"
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "status": true,
+      "description": "Purchase vegetables, fruits, and milk from the local grocery store.",
+      "assign_to": {
+        "name": "Jonathan"
+      },
+      "date": "24-03-2024",
+      "time": "10:00"
+    },
+    {
+      "id": 4,
+      "title": "Go for a Run",
+      "status": true,
+      "description": "Take a jog around the park for 30 minutes.",
+      "assign_to": {
+        "name": "Nathan"
+      },
+      "date": "23-03-2024",
+      "time": "07:00"
+    },
+    {
+      "id": 5,
+      "title": "Read Book",
+      "status": true,
+      "description": "Start reading 'To Kill a Mockingbird' for English class.",
+      "assign_to": {
+        "name": "Olivia"
+      },
+      "date": "24-03-2024",
+      "time": "20:00"
+    },
+    {
+      "id": 6,
+      "title": "Pay Bills",
+      "status": true,
+      "description": "Clear all pending utility bills before the due date.",
+      "assign_to": {
+        "name": "Lucas"
+      },
+      "date": "25-03-2024",
+      "time": "09:00"
+    },
+    {
+      "id": 8,
+      "title": "Attend Meeting",
+      "status": true,
+      "description": "Join the team meeting at 10 AM to discuss project updates.",
+      "assign_to": {
+        "name": "Henry"
+      },
+      "date": "23-03-2024",
+      "time": "10:00"
+    },
+    {
+      "id": 9,
+      "title": "Clean Room",
+      "status": true,
+      "description": "Organize and tidy up the bedroom.",
+      "assign_to": {
+        "name": "Isabella"
+      },
+      "date": "24-03-2024",
+      "time": "16:00"
+    },
+    {
+      "title": "Learn java",
+      "status": false,
+      "description": "learn java in depth ",
+      "assign_to": {
+        "name": "Bittu"
+      },
+      "date": "23-03-2024",
+      "time": "01:35",
+      "id": 11
+    }
+  ]
+}
